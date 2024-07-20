@@ -2868,7 +2868,7 @@ Symbol table '.dynsym' contains 15204 entries:
   2864: 00000000404c9220    23 FUNC    WEAK   DEFAULT    4 _ZNSt7num_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEED2Ev
   2865: 00000000402812d0   589 FUNC    GLOBAL DEFAULT    4 _Z13pfil_add_hookPFiPvPP4mbufP5ifnetiP5inpcbES_iP9pfil_head
   2866: 0000000040669ce0    17 OBJECT  WEAK   DEFAULT    9 _ZTSSt12system_error
-  2867: 00000000403baab0   104 FUNC    GLOBAL DEFAULT    4 _ZN3osv7versionB5cxx11Ev
+  2867: 00000000403baab0   109 FUNC    GLOBAL DEFAULT    4 _ZN3osv7versionB5cxx11Ev
   2868: 00000000404f58b0   512 FUNC    WEAK   DEFAULT    4 _ZNSt17__timepunct_cacheIwEC1Em
   2869: 000000004046cf20   351 FUNC    GLOBAL DEFAULT    4 _ZNKSt7codecvtIDsDu11__mbstate_tE6do_outERS0_PKDsS4_RS4_PDuS6_RS6_
   2870: 000000004038c4d0    22 FUNC    GLOBAL DEFAULT    4 _ZN5sched14set_fsbase_msrEm
