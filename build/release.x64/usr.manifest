@@ -1,0 +1,13 @@
+[manifest]
+/libenviron.so: libenviron.so
+/tools/mount-fs.so: tools/mount/mount-fs.so
+/tools/umount.so: tools/mount/umount.so
+/usr/lib/libgcc_s.so.1: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+/&/etc/hosts: ../../static/&
+/etc/mnttab: ->/proc/mounts
+/etc/fstab: fstab
+/dev: ../../static
+/proc: ../../static
+/sys: ../../static
+/tmp: ../../static
+/usr/lib/libsqlite3.so.0: /home/anuun/Desktop/dbpro_test/osv/apps/sqlite/libsqlite3.so.0
