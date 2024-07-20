@@ -1,5 +1,7 @@
 *~
 #build/
+# don't add tables
+*.tbl
 .\#*
 \#*\#
 modules/java-base/*/target
